@@ -1,0 +1,13 @@
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.exe
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.deps.json
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.runtimeconfig.json
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.runtimeconfig.dev.json
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.dll
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\bin\Debug\netcoreapp3.1\Nai_kNN_Classification.pdb
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.csprojAssemblyReference.cache
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.AssemblyInfoInputs.cache
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.AssemblyInfo.cs
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.csproj.CoreCompileInputs.cache
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.dll
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.pdb
+C:\Users\hitma\Desktop\portfolio\NAI\Nai_1\Nai_kNN_Classification\obj\Debug\netcoreapp3.1\Nai_kNN_Classification.genruntimeconfig.cache
